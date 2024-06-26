@@ -5,6 +5,6 @@ public class test {
         System.out.println("test =)");
         System.out.println("Hi =)");
         System.out.println("Hello =)");
+        System.out.println("testing merge conflicts");
     }
-
 }
